@@ -10,11 +10,14 @@ API REST para la gestión de cursos de una plataforma de aprendizaje en línea, 
 |---|---|
 | Java | 25 |
 | Spring Boot | 4.0.5 |
-| Spring Data JPA | — |
-| H2 Database (en memoria) | — |
-| Lombok | — |
-| Spring Boot Actuator | — |
-| Maven | — |
+| Spring Data JPA 
+| Spring Data JDBC
+| Spring Session for JDBC
+| Spring WEB 
+| H2 Database (en memoria) 
+| Lombok 
+| Spring Boot Actuator 
+| Maven 
 
 ---
 
